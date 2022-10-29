@@ -7,6 +7,8 @@ by p-i-c-o
 <img alt="HDTODAY logo" src="https://img.hdtoday.cc/xxrz/400x400/100/c4/93/c49337aa9c92d6fbf56b6b5830c6849c/c49337aa9c92d6fbf56b6b5830c6849c.png" width="150">
 </a>
 
+hdtoday.cc
+
 Rating: _8.5/10_
 
 - Library: 400k
