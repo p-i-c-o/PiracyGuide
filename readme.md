@@ -3,14 +3,10 @@ by p-i-c-o
 
 ---
 
-- [Sources]()
-- [hdtoday.cc](https://github.com/p-i-c-o/PiracyGuide/readme.md#hdtodaycc)
+
+- [hdtoday.cc](https://github.com/p-i-c-o/PiracyGuide/blob/main/readme.md#hdtodaycc)
 
 ## HDTODAY.CC
-<a href="https://hdtoday.cc/home">
-<img alt="HDTODAY logo" src="https://img.hdtoday.cc/xxrz/400x400/100/c4/93/c49337aa9c92d6fbf56b6b5830c6849c/c49337aa9c92d6fbf56b6b5830c6849c.png" width="150">
-</a>
-
 Rating: _8.5/10_
 
 - Library: 400k
@@ -53,3 +49,6 @@ hdtoday.cc _does_ provide a download button near the media controls when watchin
 - [The Bourne Legacy](https://hdtoday.cc/movie/watch-the-bourne-legacy-full-19114)
 - [The Bourne Ultimatum](https://hdtoday.cc/movie/watch-the-bourne-ultimatum-full-19151)
 - [Bullet Train](https://hdtoday.cc/movie/watch-bullet-train-full-85554)
+
+
+---
