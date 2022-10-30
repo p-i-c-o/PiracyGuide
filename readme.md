@@ -5,6 +5,7 @@ by p-i-c-o
 
 
 - [hdtoday.cc](https://github.com/p-i-c-o/PiracyGuide/blob/main/readme.md#hdtodaycc)
+  - [Films](https://github.com/p-i-c-o/PiracyGuide/blob/main/readme.md#some-films-from-hdtodaycc-that-i-want-tohave-watched)
 
 ## HDTODAY.CC
 Rating: _8.5/10_
