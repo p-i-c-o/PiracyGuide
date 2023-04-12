@@ -63,7 +63,6 @@ hdtoday.cc _does_ provide a download button near the media controls when watchin
 - The Batman
 
 ### Personal Favourites
-- [ ] Deadpool 2
 - [ ] Snowden
 - [ ] Ready Player One
 - [ ] Ted
