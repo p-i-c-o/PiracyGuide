@@ -53,3 +53,30 @@ hdtoday.cc _does_ provide a download button near the media controls when watchin
 
 
 ---
+
+### 2022
+- All Quiet on the Western Front
+- Everything Everywhere All at Once
+- Top Gun: Maverick
+- Avatar: Way of the Water
+- The Menu
+- The Batman
+
+
+- [ ] Deadpool 2
+- [ ] Snowden
+- [ ] Ready Player One
+- [ ] Ted
+- [ ] Ted 2
+- [ ] The Billion Dollar Code
+- [ ] The Social Network
+- [ ] The Coldest Game
+- [ ] Men In Black
+- [ ] Men In Black 2
+- [ ] Men In Black 3
+- [ ] Men In Black: International
+- [ ] The Bourne Supremacy
+- [ ] The Bourne Identity
+- [ ] The Bourne Legacy
+- [ ] The Bourne Ultimatum
+- [ ] Bullet Train
