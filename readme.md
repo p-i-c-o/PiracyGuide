@@ -17,13 +17,14 @@ hdtoday.cc _does_ provide a download button near the media controls when watchin
 ## THE PIRATE BAY
 Rating: _9.5/10_
 
-## Description
+### Description
 The Pirate Bay is a old legend in the piracy community. Any file you can possibly imagine is on the Pirate Bay, free to download. I highly recommend using a VPN to lessen the chances of getting in trouble with your local government (refer to disclaimer).
 
-## Downloading
+### Downloading
 In order to download, click the little magnet icon next to a link. There click "Start magnet" and download your desired files. Remember not to open a different magnet at the same time, as it will terminate the connection with the first and cancel all current downloads.
 
 ---
+## Films
 
 ### 2022
 - All Quiet on the Western Front
